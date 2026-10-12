@@ -36,4 +36,4 @@
 
 <br clear="right" />
 
-<img src="assets/github-snake.svg" alt="Animated GitHub contribution snake" />
+<img src="assets/github-snake-dark.svg" alt="Animated GitHub contribution snake" />
