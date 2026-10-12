@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Phil. I'm a developer from Germany 🇩🇪</h2>
 
-<img align="right" height="180" src="assets/phil-terminal-green.svg" alt="Phil developer terminal animation" />
+<img align="right" height="180" src="assets/phil-terminal-forest.svg" alt="Phil developer terminal animation" />
 
 <p align="left">My portfolio: coming soon ✨</p>
 
