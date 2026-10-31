@@ -2,7 +2,7 @@
 
 <img align="right" height="180" src="assets/phil-terminal-forest.svg" alt="Phil developer terminal animation" />
 
-<p align="left">My portfolio: coming soon ✨</p>
+<p align="left">https://philhq.de/ ✨</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
